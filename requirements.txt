@@ -1,0 +1,4 @@
+pywin32==306
+numpy==1.24.3
+pandas==2.0.3
+python-evtx==0.7.4 
